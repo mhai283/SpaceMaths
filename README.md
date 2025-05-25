@@ -1,1 +1,2 @@
-# SpaceMaths
+# Space Maths
+This program is a maths game where you can test your skills under time pressure. You pick a difficulty level (Easy, Medium, or Hard) and a time limit (10, 20, or 30 seconds). Then, you'll get a series of math questions to answer as quickly as possible. If you get a question wrong, it tells you the correct answer so you can learn. You earn points for correct answers, with extra points if you’re quick. The game also tracks your score, and each time limit has its own leaderboard. You can check the leaderboard at any time or quit when you're done. It’s a fun way to challenge yourself and improve your math skills.
