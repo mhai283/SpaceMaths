@@ -25,7 +25,7 @@ def get_countdown():
         except:
             print("Please enter a valid number.")
 
-# Main loop — runs until the astronaut says 'exit'
+# Main loop: runs until the player says 'exit'
 def main():
     print("\n🪐 Welcome to the Space Maths Mission! 🚀\n")
 
